@@ -10,3 +10,5 @@ inserir foto, nome, sobrenome, data de nascimento e e-mail. E a tela como a list
 - biblioteca image-picker para converter a imagem em base 64 facilitando a sua demostração.
 - Biblioteca styled-components para a estilização.
 - Biblioteca SQLita-sotage para fornecer um banco de dados que salve os cadastros.
+
+Arquivo apk incluso.
